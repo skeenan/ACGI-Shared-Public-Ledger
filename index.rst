@@ -1,1 +1,4 @@
-This is the initial documentation for the Shared Public Ledger project.
+Shared Public Ledger
+====================
+
+This is the documentation for the Shared Public Ledger project.
