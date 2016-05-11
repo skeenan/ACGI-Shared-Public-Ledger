@@ -13,4 +13,3 @@ Overview
    Background <background.rst>
    Steward API <stewards.rst>
    Researcher API <researchers.rst>
-   
