@@ -22,6 +22,8 @@ The Cancer KnowLedger is a decentralized database implemented throught Ethereum 
 Table of Contents
 -----------------
 
-   # [Background](background.md)
-   # [Information for Stewards](stewards.md)
-   # [Information for Researchers](researchers.md)
+   [Background](background.md)
+   
+   [Information for Stewards](stewards.md)
+   
+   [Information for Researchers](researchers.md)
