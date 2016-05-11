@@ -23,6 +23,6 @@ Table of Contents
 -----------------
 .. toctree::
    
-   Background <background.rst>
-   Information for Stewards <stewards.rst>
-   Information for Researchers <researchers.rst>
+   Background <background.md>
+   Information for Stewards <stewards.md>
+   Information for Researchers <researchers.md>
