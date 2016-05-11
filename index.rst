@@ -9,7 +9,7 @@ Overview
 --------
 
 .. toctree::
-   Background
-   Steward API
-   Researcher API
+   Background <background.rst>
+   Steward API <stewards.rst>
+   Researcher API <researchers.rst>
    
