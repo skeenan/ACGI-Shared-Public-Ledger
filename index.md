@@ -3,7 +3,7 @@ Cancer KnowLedger
 
 This is the documentation for the Shared Public Ledger project.
 
-These are the slides :download:`ACGI Public Ledger Slides <ACGI-ledger-slides-May2016.pdf>`
+The slides are here: [ACGI Public Ledger Slides](ACGI-ledger-slides-May2016.pdf)
 
 Overview
 --------
@@ -21,8 +21,7 @@ The Cancer KnowLedger is a decentralized database implemented throught Ethereum 
 
 Table of Contents
 -----------------
-.. toctree::
-   
-   Background <background.md>
-   Information for Stewards <stewards.md>
-   Information for Researchers <researchers.md>
+
+   [Background](background.md)
+   [Information for Stewards](stewards.md)
+   [Information for Researchers](researchers.md)
